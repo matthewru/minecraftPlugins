@@ -1,0 +1,10 @@
+main: me.devServer.DeathChest.Main
+name: DeathChest
+version: 1.0
+author: devs
+description: death chest plugin
+
+commands:
+  compassActivate:
+   aliases: []
+   description: activates compass

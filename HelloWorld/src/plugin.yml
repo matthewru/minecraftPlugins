@@ -1,0 +1,10 @@
+main: me.devServer.HelloWorld.Main
+name: HelloWorld
+version: 1.0
+author: devs
+description: first plugin
+
+commands:
+  hello:
+   aliases: [hi]
+   description: hello command

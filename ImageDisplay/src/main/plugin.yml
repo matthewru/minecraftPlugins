@@ -1,0 +1,11 @@
+main: me.devServer.ImageDisplay.ImageDisplayPlugin
+name: ImageDisplay
+version: 1.0
+author: devs
+description: display image with blocks
+api-version: 1.16
+
+commands:
+  display:
+   aliases: []
+   description: displays image
